@@ -1,2 +1,10 @@
 # FoxRacing
- Touchtyping este o metodă de tastare care dă utilizatorului abilitatea de a scrie repede, corect, și fără a privi tastatura sau a căuta individual fiecare tastă.  Până acum, singură metodă de a învăța metoda touchtyping era prin diferite site-uri educative, constând din multe exerciții de tastare. Acestea pot fi foarte plictisitoare și greu de parcurs.  Jocul Fox Racing își propune să facă procesul de creștere a vitezei de scriere, folosind această metodă, unul mai plăcut și mai accesibil pentru publicul larg, fiind în special destinat elevilor. În Fox Racing utilizatorul joacă rolul unei vulpi care se întrece cu șase alte vietăți ale naturii, pentru a deveni cea mai sprintenă vulpe a regatului animal.   Learn Touchtyping Now!
+Touchtyping is a typing method that gives the user the ability to type quickly, accurately, and without looking at the keyboard or searching for each key individually.
+
+Until now, the only way to learn touchtyping was through various educational sites, consisting of many typing exercises. These can be very tedious and difficult to navigate.
+
+Fox Racing aims to make the process of increasing typing speed using this method more enjoyable and accessible to the general public.
+
+In Fox Racing, you play the role of a fox who competes with other animals to become the fastest fox in the animal kingdom. Have fun!
+
+Learn Touchtyping Now!
