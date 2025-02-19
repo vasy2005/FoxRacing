@@ -1,3 +1,5 @@
+Acest proiect a fost realizat pentru Olimpiada de Creație Digitală InfoEducație 2024
+
 Description
 
 Touch typing is a typing method that gives the user the ability to type quickly, accurately, and without looking at the keyboard or searching for each key individually.
