@@ -1,4 +1,4 @@
-Acest proiect a fost realizat pentru Olimpiada Națională de Creație Digitală InfoEducație 2024
+This project was developed for the 2024 IT&C National Olympiad "InfoEducație"
 
 Description
 
