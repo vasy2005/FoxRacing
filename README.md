@@ -11,7 +11,9 @@ Learn Touch Typing Now!
 Technologies
 
 Fox Racing was created in Unreal Engine 5 + Visual Studio 2022
+
 Programming languages: C++, Blueprint
+
 Available languages: Romanian, English
 
 The behavior of the opponents in races is based on a system common to Racing games: the Rubberbanding System. This system aims to maintain an optimal level of difficulty for each race, with the opponent adjusting its behavior based on the user in real-time.
